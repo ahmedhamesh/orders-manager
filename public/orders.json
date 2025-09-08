@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "customerName": "John Doe",
+    "description": "First order",
+    "status": "New",
+    "createdAt": "2025-09-01"
+  },
+  {
+    "id": 2,
+    "customerName": "Jane Smith",
+    "description": "Second order",
+    "status": "In Progress",
+    "createdAt": "2025-09-02"
+  },
+  {
+    "id": 3,
+    "customerName": "Ali Khan",
+    "description": "Third order",
+    "status": "Done",
+    "createdAt": "2025-09-03"
+  },
+  {
+    "id": 4,
+    "customerName": "Maria Lopez",
+    "description": "Fourth order",
+    "status": "Done",
+    "createdAt": "2025-09-04"
+  },
+  {
+    "id": 5,
+    "customerName": "Chen Wei",
+    "description": "Fifth order",
+    "status": "In Progress",
+    "createdAt": "2025-09-05"
+  }
+]
